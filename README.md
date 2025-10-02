@@ -4,7 +4,7 @@
   
   🎓 Graduada em **Gestão Financeira** | 📚 Pós em **Gestão de TI** e **Engenharia de Software e Segurança da Informação**  
   🎓 Graduada em **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas**  
-  🚀 💻 Atualmente nos cursos **Bacharelado em Ciência de Dados** **DevStart** e **Qualidade de Software (QAzando)**  
+  🚀 💻 Atualmente nos cursos **Bacharelado em Ciência de Dados** , **DevStart** e **Qualidade de Software (QAzando)**  
 
   ---
   
