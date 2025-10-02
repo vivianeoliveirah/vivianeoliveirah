@@ -30,13 +30,6 @@
 
 ---
 
-## 📈 Atividade no GitHub
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vivianeoliveirah&theme=rose_pine&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 💡 Tecnologias & Ferramentas
 <div style="display: inline_block"><br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-DDB892?style=for-the-badge&logo=html5&logoColor=white"/>
