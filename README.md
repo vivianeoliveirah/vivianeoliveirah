@@ -52,5 +52,5 @@
 
 ---
 
-## 💡 “Transformando desafios em aprendizado e aprendizado em conquistas.”
+## 🚀 “Transformando desafios em aprendizado e aprendizado em conquistas.”
 
