@@ -4,7 +4,7 @@
   
   🎓 Graduada em **Gestão Financeira** | 📚 Pós em **Gestão de TI** e **Engenharia de Software e Segurança da Informação**  
   🎓 Graduada em **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas**  
-  🚀 💻 Atualmente nos cursos **Bacharelado em Ciência de Dados** , **DevStart** e **Qualidade de Software (QAzando)**  
+  🚀 💻 Atualmente nos cursos **Bacharelado em Ciência de Dados** , **DevStart** e **Qualidade de Software**  
 
   ---
   
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌱 Sobre mim
+## 👩‍💻 Sobre mim
 
 - Apaixonada por **tecnologia e aprendizado contínuo**  
 - Interesse em **QA, Desenvolvimento Web, Data Science e DevOps**  
@@ -55,5 +55,5 @@
 
 ---
 
-## ✨ “Transformando desafios em aprendizado e aprendizado em conquistas.”
+## 🎯 “Transformando desafios em aprendizado e aprendizado em conquistas.”
 
