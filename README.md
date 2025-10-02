@@ -2,9 +2,9 @@
   
   # 👩‍💻 Olá, tudo bem? Eu sou a **Viviane Oliveira**
   
-  🎓 Graduada em **Gestão Financeira** | 📚 Pós em **Gestão de TI** (em andamento)  
-  💻 Estudante de **Análise e Desenvolvimento de Sistemas (UFBRA)** e **Ciência de Dados (Univesp)**  
-  🚀 Atualmente nos cursos **DevStart** e **Qualidade de Software (QAzando)**  
+  🎓 Graduada em **Gestão Financeira** | 📚 Pós em **Gestão de TI** **Pós graduação em Engenharia de Software e Segurança da Informação**  
+  🎓 Graduada em **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas**  
+  🚀 💻 Atualmente nos cursos **Bacharelado em Ciência de Dados** **DevStart** e **Qualidade de Software (QAzando)**  
 
   ---
   
